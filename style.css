@@ -1,0 +1,16 @@
+.heading {
+font-size: 23px;
+width: 100%;
+box-shadow:5px 5px 5px rgb(72, 52, 52);
+}
+.heading_div {
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: grey;
+    box-shadow:5px 5px 5px rgb(72, 52, 52);
+}
+.heading_div2 {
+    font-size: 18px;
+}
